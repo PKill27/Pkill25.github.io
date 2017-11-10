@@ -20,7 +20,7 @@
             </ul>
             <ul id="nav-mobile" class="side-nav">
                 <li><a href="index.html">Home</a></li>
-                <li><a href="Blog.html">Blog</a></li>
+                <li><a href="blog.html">Blog</a></li>
                 <li><a href="Results.html">Results</a></li>
             </ul> <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a> </div>
     </nav>
@@ -29,7 +29,7 @@
             <div class="container">
                 <br>
                 <br>
-                <h1 class="header center grey-text text-bold-4">Saber Racing</h1>
+                <h1 class="header center grey-text text-bold-2">Saber Racing</h1>
                 <div class="row center">
                     <h4 class="header col s12 white-text bold">Send it or be sent</h4> </div>
                 <div class="row center"> <a href="index.html" id="download-button" class="btn-large waves-effect waves-light grey lighten-1">Home</a> </div>
@@ -43,79 +43,34 @@
             <div class="row">
                 <div class="col s12 center">
                     <h3><i class="mdi-content-send brown-text"></i></h3>
-                    <h4 class="grey-text lighten-1">Results</h4> </div>
+                    <h4 class="grey-text lighten-1">Blog</h4> </div>
             </div>
             <!--   Icon Section   -->
             <div class="row">
-                <table class="bordered highlight responsive-table">
-                    <thead>
-                        <tr>
-                            <th>Regatta</th>
-                            <th>Year</th>
-                            <th>Competitors</th>
-                            <th>Grade</th>
-                            <th>Place</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Oakcliff August Grade 3</td>
-                            <td>2017</td>
-                            <td>10</td>
-                            <td>3</td>
-                            <td>2</td>
-                        </tr>
-                        <tr>
-                            <td>Rose Cup</td>
-                            <td>2017</td>
-                            <td>10</td>
-                            <td>3</td>
-                            <td>4</td>
-                        </tr>
-                        <tr>
-                            <td>US Match Race Quailfier San Diego</td>
-                            <td>2017</td>
-                            <td>10</td>
-                            <td>5</td>
-                            <td>4</td>
-                        </tr>
-                        <tr>
-                            <td>Musto Youth Match Race</td>
-                            <td>2016</td>
-                            <td>12</td>
-                            <td>2</td>
-                            <td>9</td>
-                        </tr>
-                        <tr>
-                            <td>Harken Youth Match Race</td>
-                            <td>2016</td>
-                            <td>12</td>
-                            <td>3</td>
-                            <td>10</td>
-                        </tr>
-                        <tr>
-                            <td>Rose Cup</td>
-                            <td>2016</td>
-                            <td>10</td>
-                            <td>3</td>
-                            <td>7</td>
-                        </tr>
-                        <tr>
-                            <td>US Match Race Quailfier San Diego</td>
-                            <td>2016</td>
-                            <td>10</td>
-                            <td>5</td>
-                            <td>2</td>
-                        </tr>
-                        <tr>
-                            <td>LBYC Jr. Match Race Invitational</td>
-                            <td>2015</td>
-                            <td>10</td>
-                            <td>5</td>
-                            <td>3</td>
-                        </tr>
-                    </tbody>
-                </table>
+                <div class="col s12 m4">
+                    <div class="post"> <img class="responsive-img" src="images/australia%203.jpg">
+                        <!-- notice the "circle" class -->
+                        <h5 class="center">Article 1</h5>
+                        <p class="light">summary of the blog article</p>
+                        <div class="row center"> <a href="blog article.html" id="download-button" class="btn-large waves-effect waves-light grey lighten-1">send it</a> </div>
+                    </div>
+                </div>
+                <div class="col s12 m4">
+                    <div class="post"> <img class="responsive-img" src="images/australia%203.jpg">
+                        <!-- notice the "circle" class -->
+                        <h5 class="center">Article 2</h5>
+                        <p class="light">summary of the blog article</p>
+                        <div class="row center"> <a href="blog article.html" id="download-button" class="btn-large waves-effect waves-light grey lighten-1">send it</a> </div>
+                    </div>
+                </div>
+                <div class="col s12 m4">
+                    <div class="post"> <img class="responsive-img" src="images/australia%203.jpg">
+                        <!-- notice the "circle" class -->
+                        <h5 class="center">Article 3</h5>
+                        <p class="light">summary of the blog article</p>
+                        <div class="row center"> <a href="blog article.html" id="download-button" class="btn-large waves-effect waves-light grey lighten-1">send it</a> </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
